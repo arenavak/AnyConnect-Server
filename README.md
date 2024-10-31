@@ -12,10 +12,6 @@ Cisco's AnyConnect protocol is **VERY EASY to be DETECTED by your government**.
 
 So if you are a democracy fighter or some stuff like that, **DO NOT USE THIS PROJECT**!!!
 
-(Better run to USA XD)
-
-**(And for those CTOs using my project, I really want a H1B or immigration opportunities, thank you)**
-
 ## Usage：
 
 ```bash
