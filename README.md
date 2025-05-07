@@ -16,7 +16,7 @@ So if you are a democracy fighter or some stuff like that, **DO NOT USE THIS PRO
 
 ```bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/sfc9982/AnyConnect-Server/main/ocserv.sh
-chmod +x ocserv.sh
+chmod +x ocserv-en.sh
 bash ocserv.sh
 ```
 
